@@ -4,6 +4,8 @@ This repo houses code for the modern planners used in Taskography, in particular
 
 This codebase originally was built out of the [code release for PLOI](https://github.com/tomsilver/ploi) by Tom Silver, Rohan Chitnis, and Aidan Curtis. If you find this codebase useful, we urge you to strongly consider citing PLOI, in addition to Taskography.
 
+**Note**: We reimplement the graph network in PLOI using pytorch-geometric, which improves speed while retaining performance.
+
 ## Installation (requirements)
 
 We recommend running this in a `conda` or `virtualenv` environment. Requirements include
