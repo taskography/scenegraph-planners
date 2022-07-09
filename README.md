@@ -114,7 +114,7 @@ If you use this repo in your work, we ask that you cite both the Taskography pap
 ```
 @article{ploi,
   title={Planning with learned object importance in large problem instances using graph neural networks},
-  author={Silver, Tom and Chitnis, Rohan and Curtis, Aidan and Tenenbaum, Joshua and Lozano-Perez, Tomas and Kaelbling, Leslie Pack},
+  author={Silver, Tom and Chitnis, Rohan and Curtis, Aidan and Tenenbaum, Joshua and Lozano-Perez, Tomas and Kaelbling, {Leslie Pack}},
   journal=aaai,
   year={2020}
 }
